@@ -1,0 +1,14 @@
+{
+  "name": "mock-fetch",
+  "version": "0.0.1",
+  "description": "Barebones simple mocking of fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Pollack",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.5"
+  }
+}
